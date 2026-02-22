@@ -1,0 +1,5 @@
+{
+  "name": "SumBurst",
+  "description": "A fast-paced math puzzle game. Select numbers to reach the target sum and clear the grid before it reaches the top.",
+  "requestFramePermissions": []
+}
